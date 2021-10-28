@@ -1,0 +1,1 @@
+__ (Double Underline) means (by convention) that the class atribute is private
