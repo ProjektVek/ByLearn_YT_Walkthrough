@@ -1,0 +1,1 @@
+__all__ = ["caneca",'caneca_batman','caneca_londrina']
